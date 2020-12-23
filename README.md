@@ -15,12 +15,15 @@
 
 In this project, we are implementing a forward pricer for FX market (EUR/TND and USD/TND). Its main features are: 
 1. Easy-to-use graphical interface
+
 ![Alt text](img/interface.PNG?raw=true)
 
 2. Included Rate interpolation Feature
+
  ![Alt text](img/rate.PNG?raw=true)
 
 3. Included Backtesting feature
+
  ![Alt text](img/Figure_1.png?raw=true)
 
 
